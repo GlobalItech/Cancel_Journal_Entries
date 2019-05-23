@@ -1,5 +1,5 @@
 {
-    'name':   'Cancel Journal Entries',
+    'name':   'User Rights for Cancel Journal Entries',
     'author': 'itech resources',
     'company': 'Itech Resources',
     'depends': [
